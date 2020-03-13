@@ -6,6 +6,7 @@ This repository contains stickers for some IPB groups, Tools and Databases.
 
 <p align = "left">
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
+<a href="BASDA/README.md"><img src="BASDA/BASDA.svg.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
@@ -42,9 +43,16 @@ to design your stickers manually in `Illustrator`.
 # License
 
 Except where otherwise stated, the content and the stickers in this
-repository are licensed under a CC0 1.0 Universal (CC0 1.0) Public
-Domain License.
+repository are licensed under the Creative Commons Attribution (CC-BY 4.0) International License.
 
-You can copy, modify, distribute and perform the work, even for
-commercial purposes, all without asking permission. See more details
-[here](https://creativecommons.org/publicdomain/zero/1.0/).
+Under this license, you are free to:
+
+* Share — copy and redistribute the material in any medium or format
+* Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+See more details
+[here](https://creativecommons.org/licenses/by/4.0/).
