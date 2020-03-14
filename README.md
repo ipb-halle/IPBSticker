@@ -7,6 +7,8 @@ This repository contains stickers for some IPB groups, Tools and Databases.
 <p align = "left">
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
 <a href="BASDA/README.md"><img src="BASDA/BASDA.svg.png" height="100"></a>
+<a href="GoldenMutagenesis/README.md"><img src="https://raw.githubusercontent.com/ipb-halle/IPBSticker/master/GoldenMutagenesis/gm_biocsticker.svg?sanitize=true" height="100"></a>
+
 </p>
 
 ## Stickers for *events*
