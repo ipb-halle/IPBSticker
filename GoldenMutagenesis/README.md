@@ -6,5 +6,5 @@ The sticker was made with Affinity Designer, the sourcefile is gm_biocsticker.af
 # GoldenMutagenesisWeb
 <img src=https://raw.githubusercontent.com/ipb-halle/IPBSticker/master/GoldenMutagenesis/gmweb_logo.png height="150px"></img>
 
-Files with gmweb\_ are the logo which is used in the web application.
+Files with the prefix gmweb\_ are the logo which is used in the web application.
 The source file is gmweb_logo.afdesign
