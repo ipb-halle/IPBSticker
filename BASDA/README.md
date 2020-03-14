@@ -7,7 +7,7 @@
   share and adapt, but don't forget to credit the author.
 
 <p align = "left">
-<img src="./xcms.png" height="200">
+<img src="./BASDA.svg.png" height="200">
 </p>
 
 The sticker was generated using InkScape, based on the IPB Sticker by Jonas
