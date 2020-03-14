@@ -1,5 +1,6 @@
 # GoldenMutagenesis
 <img src=https://raw.githubusercontent.com/ipb-halle/IPBSticker/master/GoldenMutagenesis/gm_biocsticker.png height="150px"></img>
+
 Files with the prefix gm\_ are the biosticker in svg and png.
 The sticker was made with Affinity Designer, the sourcefile is gm_biocsticker.afdesign.
 # GoldenMutagenesisWeb
