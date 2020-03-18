@@ -8,7 +8,7 @@ This repository contains stickers for some IPB groups, Tools and Databases.
 <a href="BASDA/README.md"><img src="BASDA/BASDA.svg.png" height="100"></a>
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
 <a href="CAMERA/README.md"><img src="CAMERA/CAMERA_hl.png" height="100"></a>
-<a href="MetFrag/README.md"><img src="MetFrag/CAMERA_hl.png" height="100"></a>
+<a href="MetFrag/README.md"><img src="MetFrag/MetFrag_hl.png" height="100"></a>
 <a href="MetFamily/README.md"><img src="MetFamily/MetFamily_hl.png" height="100"></a>
 <a href="GoldenMutagenesis/README.md"><img src="https://raw.githubusercontent.com/ipb-halle/IPBSticker/master/GoldenMutagenesis/gm_biocsticker.svg?sanitize=true" height="100"></a>
 
