@@ -8,9 +8,9 @@ BASDA.png: BASDA.svg
 # suitable as avatar
 
 BASDA-square.png: BASDA.png
-	convert -background none BASDA.png -gravity center -extent 191x191 BASDA-square.png
+	convert -background none BASDA.png -gravity center -extent 304x304 BASDA-square.png
 
 BASDA.ico: BASDA.png
-	convert -background white BASDA.png -gravity center -extent 191x191 -resize 48x48 BASDA.ico
+	convert -background white BASDA.png -gravity center -extent 304x304 -resize 48x48 BASDA.ico
 
 
