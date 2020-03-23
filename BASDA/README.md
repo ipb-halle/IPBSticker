@@ -7,15 +7,11 @@
   share and adapt, but don't forget to credit the author.
 
 <p align = "left">
-<img src="./BASDA.svg.png" height="200">
+<img src="./BASDA.png" height="200">
 </p>
 
 The sticker was generated using InkScape, based on the IPB Sticker by Jonas
 Kessel.
 
-In case you need different versions, ImageMagick can convert:
+In case you need different versions, check out the `Makefile` how to convert.
 
-```
-convert -background none BASDA.svg.png -gravity center -extent 191x191 BASDA.square.png
-convert -background white BASDA.svg.png -gravity center -extent 191x191 -resize 48x48 BASDA.ico
-```
