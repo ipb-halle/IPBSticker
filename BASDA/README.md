@@ -1,6 +1,6 @@
 # The BASDA group sticker
 
-* Package URL: http://bioconductor.org/packages/xcms
+* URL: https://msbi.ipb-halle.de/
 * Sticker maintainer: [Steffen Neumann](https://www.ipb-halle.de/en/employee/steffen-neumann/)
 * License: Creative Commons Attribution
   [CC-BY](https://creativecommons.org/licenses/by/4.0/). Feel free to
