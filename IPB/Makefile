@@ -1,7 +1,7 @@
 ALL: IPB.png IPB-square.png IPB.ico
 
 # PNG
-IPB.png: IPB1.svg
+IPB.png: IPB2.svg
 	inkscape --without-gui --file=IPB1.svg --export-png=IPB.png --export-dpi=150
 
 # Squaree PNG with white background
