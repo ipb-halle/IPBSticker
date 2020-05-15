@@ -7,7 +7,7 @@
   share and adapt, but don't forget to credit the author.
 
 <p align = "left">
-<img src="./IPB1.png" height="200">
+<img src="./IPB.png" height="200">
 </p>
 
 In case you need different versions, check out the `Makefile` how to convert.
