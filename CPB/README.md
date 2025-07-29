@@ -1,4 +1,4 @@
-# The BASDA group sticker
+# The Computational Plant Biochemistry (CPB) group sticker
 
 * URL: https://msbi.ipb-halle.de/
 * Sticker maintainer: [Steffen Neumann](https://www.ipb-halle.de/en/employee/steffen-neumann/)
@@ -7,6 +7,7 @@
   share and adapt, but don't forget to credit the author.
 
 <p align = "left">
+<img src="./CPB.png" height="200">
 <img src="./BASDA.png" height="200">
 </p>
 

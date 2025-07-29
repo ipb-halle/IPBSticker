@@ -6,7 +6,8 @@ This repository contains stickers for some IPB groups, Tools and Databases.
 
 <p align = "left">
 <a href="IPB/README.md"><img src="IPB/IPB.png" height="100"></a>
-<a href="BASDA/README.md"><img src="BASDA/BASDA.png" height="100"></a>
+<!--<a href="CPB/README.md"><img src="CPB/BASDA.png" height="100"></a>-->
+<a href="CPB/README.md"><img src="CPB/CPB.png" height="100"></a>
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
 <a href="CAMERA/README.md"><img src="CAMERA/CAMERA_hl.png" height="100"></a>
 <a href="MetFrag/README.md"><img src="MetFrag/MetFrag_hl.png" height="100"></a>
